@@ -1,0 +1,6 @@
+{
+  "name": "FC Green Mamba",
+  "description": "ESPN-style real-time match tracker, live tactical formation summary (5/6/7/8/9-a-side), quick-tap match events, and squad management for FC Green Mamba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
